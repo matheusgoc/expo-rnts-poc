@@ -1,3 +1,11 @@
+# Expo RNTS POC
+
+This is an Expo React Native mobile app for testing purposes.
+
+## Activity Task Demo
+
+https://github.com/user-attachments/assets/869857fa-df2b-403b-ad6b-cd473b3da001
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
