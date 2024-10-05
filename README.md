@@ -6,6 +6,8 @@ This is an Expo React Native mobile app for testing purposes.
 
 https://github.com/user-attachments/assets/869857fa-df2b-403b-ad6b-cd473b3da001
 
+**Snack**: [https://snack.expo.dev/@matheus.goc/myndy-activity-task-demo](https://snack.expo.dev/@matheus.goc/myndy-activity-task-demo)
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
